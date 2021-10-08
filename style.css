@@ -1,0 +1,245 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #E9EBF0;
+    
+}
+
+  
+#leftbox {
+  float:left; 
+  background:#E9EBF0;
+  width:50%;
+  height:280px;
+  padding: 20px;
+}
+
+#middlebox{
+	margin-top: 10px;
+  float:left; 
+  background:#FFFFFF;
+  width:40%;
+  height:auto;
+  padding: 13px;
+  margin-bottom: 40px ;
+
+ }
+
+.searchBar {
+	margin-top: -10px;
+	background-color: #FFFFFF ;
+	width:750px;
+  height:40px;
+  color: #727B6C;
+  padding-top: 20px;
+  padding-left: 10px;
+  font-weight: 800;
+  margin-bottom: 17px;
+    
+}
+
+.addcus {
+
+	color: #7872B9;
+	font-weight: 800;
+	padding-top: 10px;
+  padding-left: 10px;
+  padding-Bottom: 10px;
+}
+
+.Card {
+  float:left; 
+	padding: 100px;
+	width:60px;
+  height:30px;
+  background: white;
+  float:left;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  background: white;
+  float:left;
+  margin-left: 18px;
+  margin-bottom: 18px;
+   
+
+}
+
+#leftbox .cardPos
+{
+  
+  margin-left: 15px;
+  
+
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+
+
+.BottomBar {
+  margin-top: 640px;
+  border: 0.8px solid #bfbfbf;
+  width:760px;
+  height:60px;
+}
+
+.BottomBar1 {
+  color: #727B6C;
+  padding: 20px;
+  float:left;
+  font-weight: 800;
+}
+
+.BottomBar2 {
+
+  color: #727B6C;
+  float:left; 
+  padding: 20px;
+  padding-left: 200px;
+  font-weight: 800;
+ /* width:10px;
+  height:10px;
+  background-color: #FFFFFF ;*/
+  
+}
+
+.BottomBar3 {
+
+  color: #727B6C;
+  padding: 20px;
+  float:left;
+  background-color: #FFFFFF ;
+  font-weight: 800;
+}
+
+.pay{
+
+  border: 0.8px solid #bfbfbf;
+  width:580px;
+  height:50px;
+  background-color: #7872b9;
+  border-radius: 5px;
+  color: white;
+  padding-top: 30px;
+  padding-left: 20px;
+
+}
+.pay1 {
+float:left; 
+font-weight: 800;
+}
+
+.pay2 {
+padding-left: 440px;
+font-weight: 800;
+float:left; 
+
+}
+
+.dain {
+  margin: 10px;
+
+}
+
+.addcus1 {
+
+  border: 0px 0.8px solid #bfbfbf;
+  width:580px;
+  height:60px;
+  border-radius: 4px;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-top: 15px;
+  color: #727B6C;
+  font-weight: 800;
+  float:left; 
+}
+
+
+
+.next1 {
+  float:left; 
+  padding-left: 150px;
+  padding-top: 15px;
+
+}
+
+.num {
+  float:left; 
+  padding-left: 150px;
+  padding-top: 15px;
+
+}
+
+
+
+#middlebox img {
+
+  width:60px;
+  height:50px;
+  border: 0.8px solid #bfbfbf;
+  
+}
+
+
+#middlebox .next{
+  float:left; 
+
+  
+}
+
+hr{
+   border: 0.8px solid #bfbfbf;
+
+}
+
+.bill{
+  float:left; 
+  padding-right: 420px;
+  padding-left: 10px;
+  margin-top: -20px;
+
+}
+
+p{
+  color: #7872b9;;
+  font-weight: 800;
+
+}
+
+.total{
+  color: #7872b9;;
+  font-weight: 800;
+
+
+}
+
+.totalbill
+{
+  margin-top: 180px;
+  
+}
+
+.next2{
+  margin-top: 13px;
+  margin-left: 10px;
+  color: #7872B9;;
+  font-weight: 600;
+ /* background-color: white;*/
+ border-radius: 5px;
+
+
+}
+
+
+
+
